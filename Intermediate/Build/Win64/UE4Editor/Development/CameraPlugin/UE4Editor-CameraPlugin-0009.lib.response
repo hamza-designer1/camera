@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CameraPlugin-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\InshaAllah_Project\Downtown_Pkg_Test\Intermediate\Build\Win64\Downtown_Pkg_TestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\InshaAllah_Project\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4Editor\Development\CameraPlugin\Module.CameraPlugin.cpp.obj"
+"D:\InshaAllah_Project\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4Editor\Development\CameraPlugin\Module.CameraPlugin.gen.cpp.obj"
+"D:\InshaAllah_Project\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4Editor\Development\CameraPlugin\Default.rc2.res"
+/OUT:"D:\InshaAllah_Project\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4Editor\Development\CameraPlugin\UE4Editor-CameraPlugin-0009.lib"

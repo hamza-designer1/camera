@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CameraPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ue5_projects\Latest_Downtown(UE5)\withSkyAtmosphericSystem\Downtown_Pkg_Test\Intermediate\Build\Win64\Downtown_Pkg_TestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"E:\ue5_projects\Latest_Downtown(UE5)\withSkyAtmosphericSystem\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UnrealEditor\Development\CameraPlugin\Module.CameraPlugin.cpp.obj"
+"E:\ue5_projects\Latest_Downtown(UE5)\withSkyAtmosphericSystem\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UnrealEditor\Development\CameraPlugin\Default.rc2.res"
+/OUT:"E:\ue5_projects\Latest_Downtown(UE5)\withSkyAtmosphericSystem\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UnrealEditor\Development\CameraPlugin\UnrealEditor-CameraPlugin.lib"

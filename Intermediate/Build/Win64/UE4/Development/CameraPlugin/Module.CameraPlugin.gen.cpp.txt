@@ -1,0 +1,7 @@
+D:\Package_Project\simulator\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4\Development\CameraPlugin\Definitions.CameraPlugin.h
+D:/Package_Project/simulator/Plugins/CameraPlugin/Intermediate/Build/Win64/UE4/Inc/CameraPlugin/CameraPlugin.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/Package_Project/simulator/Plugins/CameraPlugin/Intermediate/Build/Win64/UE4/Inc/CameraPlugin/CaptureManager.gen.cpp
+D:\Package_Project\simulator\Plugins\CameraPlugin\Source\CameraPlugin/Public/CaptureManager.h
+D:\Package_Project\simulator\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4\Inc\CameraPlugin\CaptureManager.generated.h

@@ -1,0 +1,7 @@
+D:\InshaAllah_Project\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4Editor\Development\CameraPlugin\Definitions.CameraPlugin.h
+D:/InshaAllah_Project/Downtown_Pkg_Test/Plugins/CameraPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CameraPlugin/CameraPlugin.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/InshaAllah_Project/Downtown_Pkg_Test/Plugins/CameraPlugin/Intermediate/Build/Win64/UE4Editor/Inc/CameraPlugin/CaptureManager.gen.cpp
+D:\InshaAllah_Project\Downtown_Pkg_Test\Plugins\CameraPlugin\Source\CameraPlugin/Public/CaptureManager.h
+D:\InshaAllah_Project\Downtown_Pkg_Test\Plugins\CameraPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CameraPlugin\CaptureManager.generated.h
